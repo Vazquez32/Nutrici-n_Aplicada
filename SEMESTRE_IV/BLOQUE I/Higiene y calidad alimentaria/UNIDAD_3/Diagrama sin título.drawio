@@ -1,0 +1,302 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
+  <diagram name="Página-1" id="wi93TWofoXHKmeczXbfn">
+    <mxGraphModel dx="16707" dy="13558" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="z5myA5tTupxB4D_isTEv-64" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=7.4;" edge="1" parent="1" source="z5myA5tTupxB4D_isTEv-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-19.999999999999545" y="-660.0000000000005" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="148" y="-652" />
+              <mxPoint x="-20" y="-650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-1" value="Normatividad higiénico-sanitaria (NOM y ZOO)" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=80;spacing=3.8;rounded=1;absoluteArcSize=1;arcSize=9;rotation=-90;strokeWidth=7.5;lucidId=8rX~N9ndeHc0;" vertex="1" parent="1">
+          <mxGeometry x="-172" y="-802" width="1275" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-2" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeWidth=7.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.012;exitPerimeter=0;entryX=-0.007;entryY=0.5;entryPerimeter=0;lucidId=0tX~9Q6tunJN;" edge="1" parent="1" source="z5myA5tTupxB4D_isTEv-1" target="z5myA5tTupxB4D_isTEv-3">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="-652" />
+              <mxPoint x="750" y="-1980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-3" value="NOM-251-SSA1-2009" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=40;fontStyle=1;spacing=3.8;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=7.5;lucidId=2tX~7C~06OYy;" vertex="1" parent="1">
+          <mxGeometry x="855" y="-2025" width="510" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-4" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeOpacity=100;strokeWidth=7.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.007;exitY=0.5;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=ouX~XE6uXcI0;" edge="1" parent="1" source="z5myA5tTupxB4D_isTEv-3" target="z5myA5tTupxB4D_isTEv-5">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-5" value="Establece las prácticas de higiene para el proceso de alimentos, bebidas o suplementos alimenticios. Tiene como objetivo garantizar que las operaciones en la industria alimentaria se realicen en condiciones sanitarias que eviten la contaminación y preserven la inocuidad del producto hasta su consumo." style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=40;spacing=3.8;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=7.5;lucidId=ouX~dGZ25Ed-;" vertex="1" parent="1">
+          <mxGeometry x="1695" y="-2104" width="1230" height="248" as="geometry" />
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-6" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeWidth=7.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.012;exitPerimeter=0;entryX=-0.007;entryY=0.5;entryPerimeter=0;lucidId=UuX~RVuSKAkE;" edge="1" parent="1" source="z5myA5tTupxB4D_isTEv-1" target="z5myA5tTupxB4D_isTEv-7">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="-652" />
+              <mxPoint x="750" y="-1687" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-7" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:40px;font-weight: bold;&quot;&gt;NOM-194-SSA1-2004&lt;/span&gt;&lt;span style=&quot;font-size:40px;&quot;&gt;:&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=7.5;lucidId=VuX~gV8chLQU;" vertex="1" parent="1">
+          <mxGeometry x="855" y="-1732" width="510" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-8" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeOpacity=100;strokeWidth=7.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.007;exitY=0.5;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=ivX~xbb.UNW5;" edge="1" parent="1" source="z5myA5tTupxB4D_isTEv-7" target="z5myA5tTupxB4D_isTEv-9">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-9" value="Regula las especificaciones sanitarias para la venta y distribución de carne fresca en México. Se enfoca en la manipulación, transporte y almacenamiento de carne para evitar su deterioro y proteger al consumidor de riesgos asociados a la mala conservación." style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=40;spacing=3.8;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=7.5;lucidId=ivX~ub_NVhAE;" vertex="1" parent="1">
+          <mxGeometry x="1695" y="-1800" width="1230" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-10" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeWidth=7.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.012;exitPerimeter=0;entryX=-0.007;entryY=0.5;entryPerimeter=0;lucidId=SvX~3WRaAcvf;" edge="1" parent="1" source="z5myA5tTupxB4D_isTEv-1" target="z5myA5tTupxB4D_isTEv-11">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="-652" />
+              <mxPoint x="750" y="-1395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-11" value="NOM-213-SSA1-2002" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=40;fontStyle=1;spacing=3.8;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=7.5;lucidId=TvX~sko6GpoS;" vertex="1" parent="1">
+          <mxGeometry x="870" y="-1440" width="510" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-12" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeOpacity=100;strokeWidth=7.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.007;exitY=0.5;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=iwX~xKmQSF5w;" edge="1" parent="1" source="z5myA5tTupxB4D_isTEv-11" target="z5myA5tTupxB4D_isTEv-13">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-13" value="Esta norma abarca las especificaciones sanitarias de los productos cárnicos procesados, como embutidos o carnes curadas. Asegura que los procesos de elaboración se realicen bajo estrictos controles de calidad e higiene para evitar la presencia de patógenos en los alimentos." style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=40;spacing=3.8;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=7.5;lucidId=iwX~65e6WYdY;" vertex="1" parent="1">
+          <mxGeometry x="1695" y="-1519" width="1230" height="248" as="geometry" />
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-14" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeWidth=7.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.012;exitPerimeter=0;entryX=-0.007;entryY=0.5;entryPerimeter=0;lucidId=BwX~-UeF5DgA;" edge="1" parent="1" source="z5myA5tTupxB4D_isTEv-1" target="z5myA5tTupxB4D_isTEv-15">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-15" value="NOM-243-SSA1-2010" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=40;fontStyle=1;align=center;spacing=3.8;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=7.5;lucidId=EwX~zp.9oZhL;" vertex="1" parent="1">
+          <mxGeometry x="885" y="-1138" width="510" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-16" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeOpacity=100;strokeWidth=7.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.007;exitY=0.5;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=lxX~xWldxEc.;" edge="1" parent="1" source="z5myA5tTupxB4D_isTEv-15" target="z5myA5tTupxB4D_isTEv-17">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-17" value="Regula los productos lácteos, incluyendo la leche y sus derivados, fórmulas lácteas y productos combinados. Establece criterios sanitarios y de calidad para garantizar la inocuidad del producto, desde la obtención de la leche hasta la venta al consumidor final." style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=40;spacing=3.8;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=7.5;lucidId=lxX~QSXNVyUz;" vertex="1" parent="1">
+          <mxGeometry x="1695" y="-1200" width="1230" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-18" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeWidth=7.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.012;exitPerimeter=0;entryX=-0.007;entryY=0.5;entryPerimeter=0;lucidId=NxX~uy~UXtVE;" edge="1" parent="1" source="z5myA5tTupxB4D_isTEv-1" target="z5myA5tTupxB4D_isTEv-19">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="-652" />
+              <mxPoint x="750" y="-806" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-19" value="NOM-092-ZOO-1995" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=40;fontStyle=1;spacing=3.8;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=7.5;lucidId=OxX~YIol1tgm;" vertex="1" parent="1">
+          <mxGeometry x="885" y="-844" width="525" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-20" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeOpacity=100;strokeWidth=7.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.007;exitY=0.5;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=wCX~l30z2ykQ;" edge="1" parent="1" source="z5myA5tTupxB4D_isTEv-19" target="z5myA5tTupxB4D_isTEv-21">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-21" value="Se refiere a las buenas prácticas de producción de productos pesqueros y acuícolas. Esta norma tiene como objetivo garantizar que los productos del mar lleguen en condiciones óptimas de calidad sanitaria, minimizando riesgos de contaminación biológica o química durante su manipulación y procesamiento." style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=40;spacing=3.8;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=7.5;lucidId=wCX~CX-C5F-p;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="-930" width="1230" height="248" as="geometry" />
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-22" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeWidth=7.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.012;exitPerimeter=0;entryX=-0.007;entryY=0.5;entryPerimeter=0;lucidId=GDX~DeGpPaV4;" edge="1" parent="1" source="z5myA5tTupxB4D_isTEv-1" target="z5myA5tTupxB4D_isTEv-23">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-23" value="NOM-155-SCFI-2012" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=40;fontStyle=1;align=center;spacing=3.8;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=7.5;lucidId=GDX~nSos.0bu;" vertex="1" parent="1">
+          <mxGeometry x="885" y="-535" width="510" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-24" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeOpacity=100;strokeWidth=7.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.007;exitY=0.5;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=PDX~3EGtvyLX;" edge="1" parent="1" source="z5myA5tTupxB4D_isTEv-23" target="z5myA5tTupxB4D_isTEv-25">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-25" value="Especifica los requisitos de calidad para el café, uno de los productos más consumidos en México. Esta norma regula las características del producto, el etiquetado, la comercialización y las condiciones sanitarias bajo las cuales debe ser procesado" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=40;spacing=3.8;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=7.5;lucidId=PDX~UGuxFWwk;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="-612" width="1230" height="245" as="geometry" />
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-26" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeWidth=7.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.012;exitPerimeter=0;entryX=-0.007;entryY=0.5;entryPerimeter=0;lucidId=TJX~j.AE9Ljv;" edge="1" parent="1" source="z5myA5tTupxB4D_isTEv-1" target="z5myA5tTupxB4D_isTEv-27">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-27" value="NOM-026-SSA1-1993" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=40;fontStyle=1;align=center;spacing=3.8;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=7.5;lucidId=UJX~nvDHD~tM;" vertex="1" parent="1">
+          <mxGeometry x="885" y="-225" width="510" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-28" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeOpacity=100;strokeWidth=7.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.007;exitY=0.5;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=aKX~OL9mJ_jE;" edge="1" parent="1" source="z5myA5tTupxB4D_isTEv-27" target="z5myA5tTupxB4D_isTEv-29">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-29" value="Abarca la higiene y sanidad en la elaboración, almacenamiento y venta de bebidas alcohólicas. Esta norma asegura que las bebidas alcohólicas se produzcan bajo condiciones que garanticen su seguridad para el consumo humano." style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=40;spacing=3.8;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=7.5;lucidId=aKX~nZHwx-yn;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="-285" width="1230" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-30" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeWidth=7.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.012;exitPerimeter=0;entryX=-0.007;entryY=0.5;entryPerimeter=0;lucidId=KKX~dT2qeqrp;" edge="1" parent="1" source="z5myA5tTupxB4D_isTEv-1" target="z5myA5tTupxB4D_isTEv-31">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="-652" />
+              <mxPoint x="740" y="135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-31" value="NOM-041-ZOO-1995" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=40;fontStyle=1;spacing=3.8;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=7.5;lucidId=KKX~hlzRd9Tp;" vertex="1" parent="1">
+          <mxGeometry x="885" y="90" width="510" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-32" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeOpacity=100;strokeWidth=7.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.007;exitY=0.5;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=5KX~PNTEozA2;" edge="1" parent="1" source="z5myA5tTupxB4D_isTEv-31" target="z5myA5tTupxB4D_isTEv-33">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-33" value="Controla la tuberculosis bovina, una enfermedad zoonótica que puede transmitirse a los humanos. Establece procedimientos para la detección y eliminación de la enfermedad en el ganado bovino, reduciendo el riesgo de contagio a través de productos como la carne y la leche." style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=40;spacing=3.8;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=7.5;lucidId=5KX~k6eckZgR;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="11" width="1230" height="248" as="geometry" />
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-34" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeWidth=7.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.012;exitPerimeter=0;entryX=-0.007;entryY=0.5;entryPerimeter=0;lucidId=QOX~GQrfG4bd;" edge="1" parent="1" source="z5myA5tTupxB4D_isTEv-1" target="z5myA5tTupxB4D_isTEv-35">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="-652" />
+              <mxPoint x="740" y="484" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-35" value="NOM-197-SSA1-2000" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=40;fontStyle=1;spacing=3.8;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=7.5;lucidId=SOX~Gubfq6fQ;" vertex="1" parent="1">
+          <mxGeometry x="885" y="431" width="510" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-36" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeOpacity=100;strokeWidth=7.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.007;exitY=0.5;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=cPX~ig_i0VA8;" edge="1" parent="1" source="z5myA5tTupxB4D_isTEv-35" target="z5myA5tTupxB4D_isTEv-37">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-37" value="Regula las especificaciones sanitarias para productos vegetales frescos, asegurando que cumplan con los estándares de higiene desde su producción hasta su distribución. Esta norma tiene como objetivo prevenir la contaminación con agentes patógenos que puedan causar enfermedades en los consumidores." style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=40;spacing=3.8;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=7.5;lucidId=cPX~YqP~JenH;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="360" width="1230" height="248" as="geometry" />
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-38" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeWidth=7.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.012;exitPerimeter=0;entryX=-0.007;entryY=0.5;entryPerimeter=0;lucidId=wPX~opnbUd6Z;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="-651" />
+              <mxPoint x="740" y="787" />
+            </Array>
+            <mxPoint x="615.67" y="-652" as="sourcePoint" />
+            <mxPoint x="878.0000000000003" y="787.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-39" value="NOM-033-SAG/ZOO-2014" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=40;fontStyle=1;spacing=3.8;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=7.5;lucidId=yPX~7WN5DNAU;" vertex="1" parent="1">
+          <mxGeometry x="885" y="735" width="510" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-40" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeOpacity=100;strokeWidth=7.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.007;exitY=0.5;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=VPX~TTssxm98;" edge="1" parent="1" source="z5myA5tTupxB4D_isTEv-39" target="z5myA5tTupxB4D_isTEv-41">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-41" value="Establece los métodos para el sacrificio humanitario de animales, regulando los procedimientos para evitar el sufrimiento innecesario durante el sacrificio. Esta norma aplica tanto para animales destinados al consumo humano como aquellos utilizados en investigación." style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=40;spacing=3.8;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=7.5;lucidId=VPX~Nb0GLapY;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="664" width="1245" height="248" as="geometry" />
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-63" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=7.4;" edge="1" parent="1" source="z5myA5tTupxB4D_isTEv-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-20" y="-700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-42" value="Normas ISO y NOM que regulan la calidad del servicio alimentario" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=80;spacing=3.8;rounded=1;absoluteArcSize=1;arcSize=9;rotation=-90;strokeWidth=7.5;lucidId=SQX~GAZLHqkx;" vertex="1" parent="1">
+          <mxGeometry x="-238" y="2518" width="1275" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-43" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeWidth=7.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.019;exitPerimeter=0;entryX=-0.008;entryY=0.5;entryPerimeter=0;lucidId=uRX~.31hQxvK;" edge="1" parent="1" source="z5myA5tTupxB4D_isTEv-42" target="z5myA5tTupxB4D_isTEv-44">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="2618" />
+              <mxPoint x="680" y="1500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-44" value="ISO 22000" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=40;fontStyle=1;spacing=3.8;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=7.5;lucidId=vRX~m-NH9wH7;" vertex="1" parent="1">
+          <mxGeometry x="885" y="1425" width="495" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-45" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeOpacity=100;strokeWidth=7.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.008;exitY=0.5;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=xSX~PPlpwaI-;" edge="1" parent="1" source="z5myA5tTupxB4D_isTEv-44" target="z5myA5tTupxB4D_isTEv-46">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-46" value="Es una norma internacional que establece los requisitos para un sistema de gestión de seguridad alimentaria. Integra el Análisis de Peligros y Puntos Críticos de Control (HACCP), permitiendo a las organizaciones identificar, evaluar y controlar los riesgos en toda la cadena alimentaria, desde la producción primaria hasta el consumidor final." style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=50;spacing=3.8;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=7.5;lucidId=xSX~a0kVaBHB;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="1286" width="1230" height="428" as="geometry" />
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-47" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeWidth=7.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.019;exitPerimeter=0;entryX=-0.008;entryY=0.5;entryPerimeter=0;lucidId=6SX~_Vhi6FBj;" edge="1" parent="1" source="z5myA5tTupxB4D_isTEv-42" target="z5myA5tTupxB4D_isTEv-48">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="2618" />
+              <mxPoint x="680" y="2061" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-48" value="ISO 9001" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=40;fontStyle=1;spacing=3.8;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=7.5;lucidId=7SX~fCVq9K3R;" vertex="1" parent="1">
+          <mxGeometry x="878" y="1993" width="495" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-49" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeOpacity=100;strokeWidth=7.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.008;exitY=0.5;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=kTX~SfXOLg8o;" edge="1" parent="1" source="z5myA5tTupxB4D_isTEv-48" target="z5myA5tTupxB4D_isTEv-50">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-50" value="Es otra norma relevante, que se enfoca en la gestión de la calidad. A través de la implementación de sistemas de gestión basados en esta norma, las organizaciones alimentarias pueden garantizar la consistencia en la calidad de sus productos y servicios, aumentando la satisfacción del cliente y mejorando continuamente sus procesos." style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=50;spacing=3.8;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=7.5;lucidId=kTX~gs_tqkfU;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="1847" width="1230" height="428" as="geometry" />
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-51" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeWidth=7.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.019;exitPerimeter=0;entryX=-0.008;entryY=0.5;entryPerimeter=0;lucidId=nUX~tMuDZb3g;" edge="1" parent="1" source="z5myA5tTupxB4D_isTEv-42" target="z5myA5tTupxB4D_isTEv-52">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-52" value="NOM-093-SSA1-1994" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=40;fontStyle=1;align=center;spacing=3.8;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=7.5;lucidId=oUX~c_Vaac1K;" vertex="1" parent="1">
+          <mxGeometry x="889" y="2552" width="488" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-53" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeOpacity=100;strokeWidth=7.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.008;exitY=0.5;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=QUX~j7T5ohnG;" edge="1" parent="1" source="z5myA5tTupxB4D_isTEv-52" target="z5myA5tTupxB4D_isTEv-54">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-54" value="Regula las prácticas de higiene para la elaboración de alimentos que se preparan y venden en establecimientos fijos. Asegura que los alimentos se manejen de forma segura en restaurantes, comedores y otros establecimientos, reduciendo el riesgo de enfermedades transmitidas por alimentos." style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=50;spacing=3.8;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=7.5;lucidId=QUX~0RgdJAPe;" vertex="1" parent="1">
+          <mxGeometry x="1695" y="2434" width="1230" height="368" as="geometry" />
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-55" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeWidth=7.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.019;exitPerimeter=0;entryX=-0.008;entryY=0.5;entryPerimeter=0;lucidId=pVX~D4pKs1x3;" edge="1" parent="1" source="z5myA5tTupxB4D_isTEv-42" target="z5myA5tTupxB4D_isTEv-56">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-56" value="NOM-242-SSA1-2009" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=40;fontStyle=1;spacing=3.8;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=7.5;lucidId=pVX~d7BtaA1v;" vertex="1" parent="1">
+          <mxGeometry x="870" y="3120" width="488" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-57" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeOpacity=100;strokeWidth=7.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.008;exitY=0.5;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=XVX~JnzphF-W;" edge="1" parent="1" source="z5myA5tTupxB4D_isTEv-56" target="z5myA5tTupxB4D_isTEv-58">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-58" value="Rstablece las especificaciones sanitarias para productos pesqueros y acuícolas, garantizando su inocuidad y la calidad del producto. Esta norma regula desde la pesca y la recolección hasta la distribución de los productos, asegurando que cumplan con los estándares necesarios para su comercialización." style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=50;spacing=3.8;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=7.5;lucidId=XVX~v.2P6wqN;" vertex="1" parent="1">
+          <mxGeometry x="1695" y="3011" width="1230" height="368" as="geometry" />
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-59" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#000000;strokeWidth=7.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.019;exitPerimeter=0;entryX=-0.008;entryY=0.5;entryPerimeter=0;lucidId=3XX~JWdmSDzQ;" edge="1" parent="1" source="z5myA5tTupxB4D_isTEv-42" target="z5myA5tTupxB4D_isTEv-60">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="2618" />
+              <mxPoint x="690" y="3770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=7.4;" edge="1" parent="1" source="z5myA5tTupxB4D_isTEv-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1680" y="3768.666666666667" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-60" value="NOM-086-SSA1-1994" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=40;fontStyle=1;align=center;spacing=3.8;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=7.5;lucidId=4XX~YMSiR.US;" vertex="1" parent="1">
+          <mxGeometry x="866" y="3710" width="488" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="z5myA5tTupxB4D_isTEv-62" value="&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;font style=&quot;font-size: 50px;&quot;&gt;Regula la composición de los alimentos y bebidas no alcohólicas que han sido modificados. Esto incluye productos bajos en calorías o que han sufrido algún cambio en su composición original, con el fin de asegurar que continúen siendo seguros para el consumo humano.&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=7.5;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="3585" width="1260" height="370" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
